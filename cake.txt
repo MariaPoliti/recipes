@@ -1,4 +1,4 @@
-eggs
+eggs -use 4 eggs
 milk
-flour
+flour- use 120 g of flour
 chocolate
